@@ -1,2 +1,3 @@
-# code-templates
-Templates for different language using different build tools
+# Code Templates
+
+Templates for different language using different build tools.
